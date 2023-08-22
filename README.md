@@ -100,3 +100,14 @@ Borrado de un tweet; sólo el dueño de un tweet podrá borrarlo
 ## Iteración 10
 
 Dale cariño al CSS, barra de navegación, footer, formularios, listados, etc...
+
+
+## Consejos
+
+- Seguid las iteraciones para llevar el proyecto de una manera ordenada. Sin embargo, si veis que necesitáis seguir otro orden o preferís organizaros de otra manera, adelante. Estas iteraciones son para seguir unas pautas y asegurarnos que se cumplen los requisitos del proyecto.
+- Usad Bootstrap o similares para la maquetación si queréis avanzar de forma rápida.
+- Vais a ser muchas personas solucionando el mismo problema. Os animamos a que os ayudéis y os deis ideas entre vosotros. Surgirán features interesantes para vuestros proyectos, incluso podéis intercambiar conocimientos de cómo lo habéis hecho.
+
+## Entrega
+
+Enviar a los TA’s el enlace a vuestro repositorio en github 
