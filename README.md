@@ -41,7 +41,8 @@ Configura la conexión contra la base de datos en `config/db.config.js`
 Antes de poder crear nuestro primer tweet necesitamos que los usuarios se puedan registrar y hacer login en nuestra applicación, cada usuario contará con:
 
 - name
-- username
+- username (único)
+- email (puede repetirse entre usuarios)
 - password
 - avatarUrl (Puedes usar una url del estilo: https://i.pravatar.cc/150?u=iron-fake@pravatar.com) el usuario **no** elegirá su avatar en el registro, se le dará uno por defecto.
 
@@ -95,7 +96,7 @@ Deberá mostrar la información de perfil del usuario que ha iniciado sesión do
 
 ## Iteración 9
 
-Borrado de un tweet; sólo el dueño de un tweet podrá borrarlo
+Borrado de un tweet; sólo el dueño de un tweet podrá borrarlo.
 
 ## Iteración 10
 
